@@ -1,0 +1,15 @@
+C:\Users\PSV Solutions\OneDrive - PSV SERVIÇOS E SOLUÇÕES AUTOMATIZADAS LTDA\Área de Trabalho\Projetos\AplicacaoDeConhecimento\02-estoquePapelaria\bin\Debug\net10.0\02-estoquePapelaria.exe
+C:\Users\PSV Solutions\OneDrive - PSV SERVIÇOS E SOLUÇÕES AUTOMATIZADAS LTDA\Área de Trabalho\Projetos\AplicacaoDeConhecimento\02-estoquePapelaria\bin\Debug\net10.0\02-estoquePapelaria.deps.json
+C:\Users\PSV Solutions\OneDrive - PSV SERVIÇOS E SOLUÇÕES AUTOMATIZADAS LTDA\Área de Trabalho\Projetos\AplicacaoDeConhecimento\02-estoquePapelaria\bin\Debug\net10.0\02-estoquePapelaria.runtimeconfig.json
+C:\Users\PSV Solutions\OneDrive - PSV SERVIÇOS E SOLUÇÕES AUTOMATIZADAS LTDA\Área de Trabalho\Projetos\AplicacaoDeConhecimento\02-estoquePapelaria\bin\Debug\net10.0\02-estoquePapelaria.dll
+C:\Users\PSV Solutions\OneDrive - PSV SERVIÇOS E SOLUÇÕES AUTOMATIZADAS LTDA\Área de Trabalho\Projetos\AplicacaoDeConhecimento\02-estoquePapelaria\bin\Debug\net10.0\02-estoquePapelaria.pdb
+C:\Users\PSV Solutions\OneDrive - PSV SERVIÇOS E SOLUÇÕES AUTOMATIZADAS LTDA\Área de Trabalho\Projetos\AplicacaoDeConhecimento\02-estoquePapelaria\obj\Debug\net10.0\02-estoquePapelaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PSV Solutions\OneDrive - PSV SERVIÇOS E SOLUÇÕES AUTOMATIZADAS LTDA\Área de Trabalho\Projetos\AplicacaoDeConhecimento\02-estoquePapelaria\obj\Debug\net10.0\02-estoquePapelaria.AssemblyInfoInputs.cache
+C:\Users\PSV Solutions\OneDrive - PSV SERVIÇOS E SOLUÇÕES AUTOMATIZADAS LTDA\Área de Trabalho\Projetos\AplicacaoDeConhecimento\02-estoquePapelaria\obj\Debug\net10.0\02-estoquePapelaria.AssemblyInfo.cs
+C:\Users\PSV Solutions\OneDrive - PSV SERVIÇOS E SOLUÇÕES AUTOMATIZADAS LTDA\Área de Trabalho\Projetos\AplicacaoDeConhecimento\02-estoquePapelaria\obj\Debug\net10.0\02-estoquePapelaria.csproj.CoreCompileInputs.cache
+C:\Users\PSV Solutions\OneDrive - PSV SERVIÇOS E SOLUÇÕES AUTOMATIZADAS LTDA\Área de Trabalho\Projetos\AplicacaoDeConhecimento\02-estoquePapelaria\obj\Debug\net10.0\02-estoquePapelaria.sourcelink.json
+C:\Users\PSV Solutions\OneDrive - PSV SERVIÇOS E SOLUÇÕES AUTOMATIZADAS LTDA\Área de Trabalho\Projetos\AplicacaoDeConhecimento\02-estoquePapelaria\obj\Debug\net10.0\02-estoquePapelaria.dll
+C:\Users\PSV Solutions\OneDrive - PSV SERVIÇOS E SOLUÇÕES AUTOMATIZADAS LTDA\Área de Trabalho\Projetos\AplicacaoDeConhecimento\02-estoquePapelaria\obj\Debug\net10.0\refint\02-estoquePapelaria.dll
+C:\Users\PSV Solutions\OneDrive - PSV SERVIÇOS E SOLUÇÕES AUTOMATIZADAS LTDA\Área de Trabalho\Projetos\AplicacaoDeConhecimento\02-estoquePapelaria\obj\Debug\net10.0\02-estoquePapelaria.pdb
+C:\Users\PSV Solutions\OneDrive - PSV SERVIÇOS E SOLUÇÕES AUTOMATIZADAS LTDA\Área de Trabalho\Projetos\AplicacaoDeConhecimento\02-estoquePapelaria\obj\Debug\net10.0\02-estoquePapelaria.genruntimeconfig.cache
+C:\Users\PSV Solutions\OneDrive - PSV SERVIÇOS E SOLUÇÕES AUTOMATIZADAS LTDA\Área de Trabalho\Projetos\AplicacaoDeConhecimento\02-estoquePapelaria\obj\Debug\net10.0\ref\02-estoquePapelaria.dll

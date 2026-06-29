@@ -1,0 +1,4 @@
+﻿## Ignorar pastas internas do Visual Studio e cache
+.vs/
+[Bb]in/
+[Oo]bj/
