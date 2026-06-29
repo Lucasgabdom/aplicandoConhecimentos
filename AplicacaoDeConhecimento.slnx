@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="02-estoquePapelaria/02-estoquePapelaria.csproj" />
+  <Project Path="03-pedidoDeCompra/03-pedidoDeCompra.csproj" />
+  <Project Path="AplicacaoDeConhecimento/AplicacaoDeConhecimento.csproj" />
+</Solution>

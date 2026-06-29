@@ -1,0 +1,15 @@
+C:\Users\PSV Solutions\OneDrive - PSV SERVIÇOS E SOLUÇÕES AUTOMATIZADAS LTDA\Área de Trabalho\Projetos\AplicacaoDeConhecimento\03-pedidoDeCompra\bin\Debug\net10.0\03-pedidoDeCompra.exe
+C:\Users\PSV Solutions\OneDrive - PSV SERVIÇOS E SOLUÇÕES AUTOMATIZADAS LTDA\Área de Trabalho\Projetos\AplicacaoDeConhecimento\03-pedidoDeCompra\bin\Debug\net10.0\03-pedidoDeCompra.deps.json
+C:\Users\PSV Solutions\OneDrive - PSV SERVIÇOS E SOLUÇÕES AUTOMATIZADAS LTDA\Área de Trabalho\Projetos\AplicacaoDeConhecimento\03-pedidoDeCompra\bin\Debug\net10.0\03-pedidoDeCompra.runtimeconfig.json
+C:\Users\PSV Solutions\OneDrive - PSV SERVIÇOS E SOLUÇÕES AUTOMATIZADAS LTDA\Área de Trabalho\Projetos\AplicacaoDeConhecimento\03-pedidoDeCompra\bin\Debug\net10.0\03-pedidoDeCompra.dll
+C:\Users\PSV Solutions\OneDrive - PSV SERVIÇOS E SOLUÇÕES AUTOMATIZADAS LTDA\Área de Trabalho\Projetos\AplicacaoDeConhecimento\03-pedidoDeCompra\bin\Debug\net10.0\03-pedidoDeCompra.pdb
+C:\Users\PSV Solutions\OneDrive - PSV SERVIÇOS E SOLUÇÕES AUTOMATIZADAS LTDA\Área de Trabalho\Projetos\AplicacaoDeConhecimento\03-pedidoDeCompra\obj\Debug\net10.0\03-pedidoDeCompra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PSV Solutions\OneDrive - PSV SERVIÇOS E SOLUÇÕES AUTOMATIZADAS LTDA\Área de Trabalho\Projetos\AplicacaoDeConhecimento\03-pedidoDeCompra\obj\Debug\net10.0\03-pedidoDeCompra.AssemblyInfoInputs.cache
+C:\Users\PSV Solutions\OneDrive - PSV SERVIÇOS E SOLUÇÕES AUTOMATIZADAS LTDA\Área de Trabalho\Projetos\AplicacaoDeConhecimento\03-pedidoDeCompra\obj\Debug\net10.0\03-pedidoDeCompra.AssemblyInfo.cs
+C:\Users\PSV Solutions\OneDrive - PSV SERVIÇOS E SOLUÇÕES AUTOMATIZADAS LTDA\Área de Trabalho\Projetos\AplicacaoDeConhecimento\03-pedidoDeCompra\obj\Debug\net10.0\03-pedidoDeCompra.csproj.CoreCompileInputs.cache
+C:\Users\PSV Solutions\OneDrive - PSV SERVIÇOS E SOLUÇÕES AUTOMATIZADAS LTDA\Área de Trabalho\Projetos\AplicacaoDeConhecimento\03-pedidoDeCompra\obj\Debug\net10.0\03-pedidoDeCompra.sourcelink.json
+C:\Users\PSV Solutions\OneDrive - PSV SERVIÇOS E SOLUÇÕES AUTOMATIZADAS LTDA\Área de Trabalho\Projetos\AplicacaoDeConhecimento\03-pedidoDeCompra\obj\Debug\net10.0\03-pedidoDeCompra.dll
+C:\Users\PSV Solutions\OneDrive - PSV SERVIÇOS E SOLUÇÕES AUTOMATIZADAS LTDA\Área de Trabalho\Projetos\AplicacaoDeConhecimento\03-pedidoDeCompra\obj\Debug\net10.0\refint\03-pedidoDeCompra.dll
+C:\Users\PSV Solutions\OneDrive - PSV SERVIÇOS E SOLUÇÕES AUTOMATIZADAS LTDA\Área de Trabalho\Projetos\AplicacaoDeConhecimento\03-pedidoDeCompra\obj\Debug\net10.0\03-pedidoDeCompra.pdb
+C:\Users\PSV Solutions\OneDrive - PSV SERVIÇOS E SOLUÇÕES AUTOMATIZADAS LTDA\Área de Trabalho\Projetos\AplicacaoDeConhecimento\03-pedidoDeCompra\obj\Debug\net10.0\03-pedidoDeCompra.genruntimeconfig.cache
+C:\Users\PSV Solutions\OneDrive - PSV SERVIÇOS E SOLUÇÕES AUTOMATIZADAS LTDA\Área de Trabalho\Projetos\AplicacaoDeConhecimento\03-pedidoDeCompra\obj\Debug\net10.0\ref\03-pedidoDeCompra.dll
