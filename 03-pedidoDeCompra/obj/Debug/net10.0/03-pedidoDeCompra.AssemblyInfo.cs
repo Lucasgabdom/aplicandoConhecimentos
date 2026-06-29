@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("03-pedidoDeCompra")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9c564209764a2a436d8f547223adfc13dc9b7888")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dec759a741743e64958036d8dd14ae475f0bcae3")]
 [assembly: System.Reflection.AssemblyProductAttribute("03-pedidoDeCompra")]
 [assembly: System.Reflection.AssemblyTitleAttribute("03-pedidoDeCompra")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
