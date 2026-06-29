@@ -42,9 +42,9 @@
               "Title": "Pedidos.cs",
               "DocumentMoniker": "C:\\Users\\PSV Solutions\\OneDrive - PSV SERVI\u00C7OS E SOLU\u00C7\u00D5ES AUTOMATIZADAS LTDA\\\u00C1rea de Trabalho\\Projetos\\AplicacaoDeConhecimento\\03-pedidoDeCompra\\Pedidos.cs",
               "RelativeDocumentMoniker": "03-pedidoDeCompra\\Pedidos.cs",
-              "ToolTip": "C:\\Users\\PSV Solutions\\OneDrive - PSV SERVI\u00C7OS E SOLU\u00C7\u00D5ES AUTOMATIZADAS LTDA\\\u00C1rea de Trabalho\\Projetos\\AplicacaoDeConhecimento\\03-pedidoDeCompra\\Pedidos.cs",
-              "RelativeToolTip": "03-pedidoDeCompra\\Pedidos.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAXAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\PSV Solutions\\OneDrive - PSV SERVI\u00C7OS E SOLU\u00C7\u00D5ES AUTOMATIZADAS LTDA\\\u00C1rea de Trabalho\\Projetos\\AplicacaoDeConhecimento\\03-pedidoDeCompra\\Pedidos.cs*",
+              "RelativeToolTip": "03-pedidoDeCompra\\Pedidos.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAwAgAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-29T13:18:45.614Z",
               "EditorCaption": ""
@@ -59,8 +59,7 @@
               "RelativeToolTip": "03-pedidoDeCompra\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-29T13:13:13.172Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-29T13:13:13.172Z"
             },
             {
               "$type": "Document",
@@ -84,8 +83,7 @@
               "RelativeToolTip": "02-estoquePapelaria\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwCgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-26T18:54:28.519Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-26T18:54:28.519Z"
             },
             {
               "$type": "Document",
