@@ -1,0 +1,15 @@
+C:\Users\PSV Solutions\OneDrive - PSV SERVIÇOS E SOLUÇÕES AUTOMATIZADAS LTDA\Área de Trabalho\Projetos\AplicacaoDeConhecimento\04-agendamentoMedico\bin\Debug\net10.0\04-agendamentoMedico.exe
+C:\Users\PSV Solutions\OneDrive - PSV SERVIÇOS E SOLUÇÕES AUTOMATIZADAS LTDA\Área de Trabalho\Projetos\AplicacaoDeConhecimento\04-agendamentoMedico\bin\Debug\net10.0\04-agendamentoMedico.deps.json
+C:\Users\PSV Solutions\OneDrive - PSV SERVIÇOS E SOLUÇÕES AUTOMATIZADAS LTDA\Área de Trabalho\Projetos\AplicacaoDeConhecimento\04-agendamentoMedico\bin\Debug\net10.0\04-agendamentoMedico.runtimeconfig.json
+C:\Users\PSV Solutions\OneDrive - PSV SERVIÇOS E SOLUÇÕES AUTOMATIZADAS LTDA\Área de Trabalho\Projetos\AplicacaoDeConhecimento\04-agendamentoMedico\bin\Debug\net10.0\04-agendamentoMedico.dll
+C:\Users\PSV Solutions\OneDrive - PSV SERVIÇOS E SOLUÇÕES AUTOMATIZADAS LTDA\Área de Trabalho\Projetos\AplicacaoDeConhecimento\04-agendamentoMedico\bin\Debug\net10.0\04-agendamentoMedico.pdb
+C:\Users\PSV Solutions\OneDrive - PSV SERVIÇOS E SOLUÇÕES AUTOMATIZADAS LTDA\Área de Trabalho\Projetos\AplicacaoDeConhecimento\04-agendamentoMedico\obj\Debug\net10.0\04-agendamentoMedico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PSV Solutions\OneDrive - PSV SERVIÇOS E SOLUÇÕES AUTOMATIZADAS LTDA\Área de Trabalho\Projetos\AplicacaoDeConhecimento\04-agendamentoMedico\obj\Debug\net10.0\04-agendamentoMedico.AssemblyInfoInputs.cache
+C:\Users\PSV Solutions\OneDrive - PSV SERVIÇOS E SOLUÇÕES AUTOMATIZADAS LTDA\Área de Trabalho\Projetos\AplicacaoDeConhecimento\04-agendamentoMedico\obj\Debug\net10.0\04-agendamentoMedico.AssemblyInfo.cs
+C:\Users\PSV Solutions\OneDrive - PSV SERVIÇOS E SOLUÇÕES AUTOMATIZADAS LTDA\Área de Trabalho\Projetos\AplicacaoDeConhecimento\04-agendamentoMedico\obj\Debug\net10.0\04-agendamentoMedico.csproj.CoreCompileInputs.cache
+C:\Users\PSV Solutions\OneDrive - PSV SERVIÇOS E SOLUÇÕES AUTOMATIZADAS LTDA\Área de Trabalho\Projetos\AplicacaoDeConhecimento\04-agendamentoMedico\obj\Debug\net10.0\04-agendamentoMedico.sourcelink.json
+C:\Users\PSV Solutions\OneDrive - PSV SERVIÇOS E SOLUÇÕES AUTOMATIZADAS LTDA\Área de Trabalho\Projetos\AplicacaoDeConhecimento\04-agendamentoMedico\obj\Debug\net10.0\04-agendamentoMedico.dll
+C:\Users\PSV Solutions\OneDrive - PSV SERVIÇOS E SOLUÇÕES AUTOMATIZADAS LTDA\Área de Trabalho\Projetos\AplicacaoDeConhecimento\04-agendamentoMedico\obj\Debug\net10.0\refint\04-agendamentoMedico.dll
+C:\Users\PSV Solutions\OneDrive - PSV SERVIÇOS E SOLUÇÕES AUTOMATIZADAS LTDA\Área de Trabalho\Projetos\AplicacaoDeConhecimento\04-agendamentoMedico\obj\Debug\net10.0\04-agendamentoMedico.pdb
+C:\Users\PSV Solutions\OneDrive - PSV SERVIÇOS E SOLUÇÕES AUTOMATIZADAS LTDA\Área de Trabalho\Projetos\AplicacaoDeConhecimento\04-agendamentoMedico\obj\Debug\net10.0\04-agendamentoMedico.genruntimeconfig.cache
+C:\Users\PSV Solutions\OneDrive - PSV SERVIÇOS E SOLUÇÕES AUTOMATIZADAS LTDA\Área de Trabalho\Projetos\AplicacaoDeConhecimento\04-agendamentoMedico\obj\Debug\net10.0\ref\04-agendamentoMedico.dll
