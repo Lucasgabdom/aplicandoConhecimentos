@@ -1,13 +1,10 @@
-<Solution>
+﻿<Solution>
   <Project Path="02-estoquePapelaria/02-estoquePapelaria.csproj" />
   <Project Path="03-pedidoDeCompra/03-pedidoDeCompra.csproj" />
   <Project Path="04-agendamentoMedico/04-agendamentoMedico.csproj" />
-<<<<<<< HEAD
   <Project Path="05-produtoDigital/05-produtoDigital.csproj" />
-=======
   <Project Path="05-horaPratica/05-horaPratica.csproj" />
   <Project Path="06-plataformaVideo/06-plataformaVideo.csproj" />
   <Project Path="07-PetShop/07-PetShop.csproj" />
->>>>>>> 2a677e46c91035e071a0f3722418019fcd23995f
   <Project Path="AplicacaoDeConhecimento/AplicacaoDeConhecimento.csproj" />
 </Solution>

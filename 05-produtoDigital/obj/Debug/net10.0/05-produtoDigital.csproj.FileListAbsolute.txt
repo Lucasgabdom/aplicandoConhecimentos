@@ -1,0 +1,15 @@
+C:\Users\PSV Solutions\OneDrive - PSV SERVIÇOS E SOLUÇÕES AUTOMATIZADAS LTDA\Área de Trabalho\Projetos\AplicacaoDeConhecimento\05-produtoDigital\bin\Debug\net10.0\05-produtoDigital.exe
+C:\Users\PSV Solutions\OneDrive - PSV SERVIÇOS E SOLUÇÕES AUTOMATIZADAS LTDA\Área de Trabalho\Projetos\AplicacaoDeConhecimento\05-produtoDigital\bin\Debug\net10.0\05-produtoDigital.deps.json
+C:\Users\PSV Solutions\OneDrive - PSV SERVIÇOS E SOLUÇÕES AUTOMATIZADAS LTDA\Área de Trabalho\Projetos\AplicacaoDeConhecimento\05-produtoDigital\bin\Debug\net10.0\05-produtoDigital.runtimeconfig.json
+C:\Users\PSV Solutions\OneDrive - PSV SERVIÇOS E SOLUÇÕES AUTOMATIZADAS LTDA\Área de Trabalho\Projetos\AplicacaoDeConhecimento\05-produtoDigital\bin\Debug\net10.0\05-produtoDigital.dll
+C:\Users\PSV Solutions\OneDrive - PSV SERVIÇOS E SOLUÇÕES AUTOMATIZADAS LTDA\Área de Trabalho\Projetos\AplicacaoDeConhecimento\05-produtoDigital\bin\Debug\net10.0\05-produtoDigital.pdb
+C:\Users\PSV Solutions\OneDrive - PSV SERVIÇOS E SOLUÇÕES AUTOMATIZADAS LTDA\Área de Trabalho\Projetos\AplicacaoDeConhecimento\05-produtoDigital\obj\Debug\net10.0\05-produtoDigital.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PSV Solutions\OneDrive - PSV SERVIÇOS E SOLUÇÕES AUTOMATIZADAS LTDA\Área de Trabalho\Projetos\AplicacaoDeConhecimento\05-produtoDigital\obj\Debug\net10.0\05-produtoDigital.AssemblyInfoInputs.cache
+C:\Users\PSV Solutions\OneDrive - PSV SERVIÇOS E SOLUÇÕES AUTOMATIZADAS LTDA\Área de Trabalho\Projetos\AplicacaoDeConhecimento\05-produtoDigital\obj\Debug\net10.0\05-produtoDigital.AssemblyInfo.cs
+C:\Users\PSV Solutions\OneDrive - PSV SERVIÇOS E SOLUÇÕES AUTOMATIZADAS LTDA\Área de Trabalho\Projetos\AplicacaoDeConhecimento\05-produtoDigital\obj\Debug\net10.0\05-produtoDigital.csproj.CoreCompileInputs.cache
+C:\Users\PSV Solutions\OneDrive - PSV SERVIÇOS E SOLUÇÕES AUTOMATIZADAS LTDA\Área de Trabalho\Projetos\AplicacaoDeConhecimento\05-produtoDigital\obj\Debug\net10.0\05-produtoDigital.sourcelink.json
+C:\Users\PSV Solutions\OneDrive - PSV SERVIÇOS E SOLUÇÕES AUTOMATIZADAS LTDA\Área de Trabalho\Projetos\AplicacaoDeConhecimento\05-produtoDigital\obj\Debug\net10.0\05-produtoDigital.dll
+C:\Users\PSV Solutions\OneDrive - PSV SERVIÇOS E SOLUÇÕES AUTOMATIZADAS LTDA\Área de Trabalho\Projetos\AplicacaoDeConhecimento\05-produtoDigital\obj\Debug\net10.0\refint\05-produtoDigital.dll
+C:\Users\PSV Solutions\OneDrive - PSV SERVIÇOS E SOLUÇÕES AUTOMATIZADAS LTDA\Área de Trabalho\Projetos\AplicacaoDeConhecimento\05-produtoDigital\obj\Debug\net10.0\05-produtoDigital.pdb
+C:\Users\PSV Solutions\OneDrive - PSV SERVIÇOS E SOLUÇÕES AUTOMATIZADAS LTDA\Área de Trabalho\Projetos\AplicacaoDeConhecimento\05-produtoDigital\obj\Debug\net10.0\05-produtoDigital.genruntimeconfig.cache
+C:\Users\PSV Solutions\OneDrive - PSV SERVIÇOS E SOLUÇÕES AUTOMATIZADAS LTDA\Área de Trabalho\Projetos\AplicacaoDeConhecimento\05-produtoDigital\obj\Debug\net10.0\ref\05-produtoDigital.dll
