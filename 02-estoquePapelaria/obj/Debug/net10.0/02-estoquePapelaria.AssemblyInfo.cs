@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("02-estoquePapelaria")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9c564209764a2a436d8f547223adfc13dc9b7888")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ade88899f71557396b39cc4a8b6568b5907ed484")]
 [assembly: System.Reflection.AssemblyProductAttribute("02-estoquePapelaria")]
 [assembly: System.Reflection.AssemblyTitleAttribute("02-estoquePapelaria")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
