@@ -8,5 +8,7 @@
   <Project Path="07-PetShop/07-PetShop.csproj" />
   <Project Path="08-oficinaAutomobilistica/08-oficinaAutomobilistica.csproj" />
   <Project Path="09-FormasGeometricas/09-FormasGeometricas.csproj" />
+  <Project Path="10-Colaboradores/10-Colaboradores.csproj" />
+  <Project Path="11-Banco/11-Banco.csproj" />
   <Project Path="AplicacaoDeConhecimento/AplicacaoDeConhecimento.csproj" />
 </Solution>
