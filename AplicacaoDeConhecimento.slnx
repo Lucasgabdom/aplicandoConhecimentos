@@ -10,5 +10,9 @@
   <Project Path="09-FormasGeometricas/09-FormasGeometricas.csproj" />
   <Project Path="10-Colaboradores/10-Colaboradores.csproj" />
   <Project Path="11-Banco/11-Banco.csproj" />
+  <Project Path="12-Eletronico/12-Eletronico.csproj" />
+  <Project Path="13-Iforma/13-Iforma.csproj" />
+  <Project Path="14-Piloto/14-Piloto.csproj" />
+  <Project Path="15-Pagamento/15-Pagamento.csproj" />
   <Project Path="AplicacaoDeConhecimento/AplicacaoDeConhecimento.csproj" />
 </Solution>
