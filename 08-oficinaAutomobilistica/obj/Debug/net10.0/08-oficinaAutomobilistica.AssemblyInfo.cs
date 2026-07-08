@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("08-oficinaAutomobilistica")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+450e296e22558208569566f00e3c09dd57d9e636")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1973b7fd06dbe04ed828f7cbc17212b2c3e19a60")]
 [assembly: System.Reflection.AssemblyProductAttribute("08-oficinaAutomobilistica")]
 [assembly: System.Reflection.AssemblyTitleAttribute("08-oficinaAutomobilistica")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
