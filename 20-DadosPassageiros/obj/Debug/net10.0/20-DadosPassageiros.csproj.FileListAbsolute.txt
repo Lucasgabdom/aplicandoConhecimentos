@@ -1,0 +1,15 @@
+C:\Users\PSV Solutions\OneDrive - PSV SERVIÇOS E SOLUÇÕES AUTOMATIZADAS LTDA\Área de Trabalho\Projetos\AplicacaoDeConhecimento\20-DadosPassageiros\bin\Debug\net10.0\20-DadosPassageiros.exe
+C:\Users\PSV Solutions\OneDrive - PSV SERVIÇOS E SOLUÇÕES AUTOMATIZADAS LTDA\Área de Trabalho\Projetos\AplicacaoDeConhecimento\20-DadosPassageiros\bin\Debug\net10.0\20-DadosPassageiros.deps.json
+C:\Users\PSV Solutions\OneDrive - PSV SERVIÇOS E SOLUÇÕES AUTOMATIZADAS LTDA\Área de Trabalho\Projetos\AplicacaoDeConhecimento\20-DadosPassageiros\bin\Debug\net10.0\20-DadosPassageiros.runtimeconfig.json
+C:\Users\PSV Solutions\OneDrive - PSV SERVIÇOS E SOLUÇÕES AUTOMATIZADAS LTDA\Área de Trabalho\Projetos\AplicacaoDeConhecimento\20-DadosPassageiros\bin\Debug\net10.0\20-DadosPassageiros.dll
+C:\Users\PSV Solutions\OneDrive - PSV SERVIÇOS E SOLUÇÕES AUTOMATIZADAS LTDA\Área de Trabalho\Projetos\AplicacaoDeConhecimento\20-DadosPassageiros\bin\Debug\net10.0\20-DadosPassageiros.pdb
+C:\Users\PSV Solutions\OneDrive - PSV SERVIÇOS E SOLUÇÕES AUTOMATIZADAS LTDA\Área de Trabalho\Projetos\AplicacaoDeConhecimento\20-DadosPassageiros\obj\Debug\net10.0\20-DadosPassageiros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PSV Solutions\OneDrive - PSV SERVIÇOS E SOLUÇÕES AUTOMATIZADAS LTDA\Área de Trabalho\Projetos\AplicacaoDeConhecimento\20-DadosPassageiros\obj\Debug\net10.0\20-DadosPassageiros.AssemblyInfoInputs.cache
+C:\Users\PSV Solutions\OneDrive - PSV SERVIÇOS E SOLUÇÕES AUTOMATIZADAS LTDA\Área de Trabalho\Projetos\AplicacaoDeConhecimento\20-DadosPassageiros\obj\Debug\net10.0\20-DadosPassageiros.AssemblyInfo.cs
+C:\Users\PSV Solutions\OneDrive - PSV SERVIÇOS E SOLUÇÕES AUTOMATIZADAS LTDA\Área de Trabalho\Projetos\AplicacaoDeConhecimento\20-DadosPassageiros\obj\Debug\net10.0\20-DadosPassageiros.csproj.CoreCompileInputs.cache
+C:\Users\PSV Solutions\OneDrive - PSV SERVIÇOS E SOLUÇÕES AUTOMATIZADAS LTDA\Área de Trabalho\Projetos\AplicacaoDeConhecimento\20-DadosPassageiros\obj\Debug\net10.0\20-DadosPassageiros.sourcelink.json
+C:\Users\PSV Solutions\OneDrive - PSV SERVIÇOS E SOLUÇÕES AUTOMATIZADAS LTDA\Área de Trabalho\Projetos\AplicacaoDeConhecimento\20-DadosPassageiros\obj\Debug\net10.0\20-DadosPassageiros.dll
+C:\Users\PSV Solutions\OneDrive - PSV SERVIÇOS E SOLUÇÕES AUTOMATIZADAS LTDA\Área de Trabalho\Projetos\AplicacaoDeConhecimento\20-DadosPassageiros\obj\Debug\net10.0\refint\20-DadosPassageiros.dll
+C:\Users\PSV Solutions\OneDrive - PSV SERVIÇOS E SOLUÇÕES AUTOMATIZADAS LTDA\Área de Trabalho\Projetos\AplicacaoDeConhecimento\20-DadosPassageiros\obj\Debug\net10.0\20-DadosPassageiros.pdb
+C:\Users\PSV Solutions\OneDrive - PSV SERVIÇOS E SOLUÇÕES AUTOMATIZADAS LTDA\Área de Trabalho\Projetos\AplicacaoDeConhecimento\20-DadosPassageiros\obj\Debug\net10.0\20-DadosPassageiros.genruntimeconfig.cache
+C:\Users\PSV Solutions\OneDrive - PSV SERVIÇOS E SOLUÇÕES AUTOMATIZADAS LTDA\Área de Trabalho\Projetos\AplicacaoDeConhecimento\20-DadosPassageiros\obj\Debug\net10.0\ref\20-DadosPassageiros.dll

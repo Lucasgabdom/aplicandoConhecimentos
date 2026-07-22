@@ -14,5 +14,10 @@
   <Project Path="13-Iforma/13-Iforma.csproj" />
   <Project Path="14-Piloto/14-Piloto.csproj" />
   <Project Path="15-Pagamento/15-Pagamento.csproj" />
+  <Project Path="16-Notificacao/16-Notificacao.csproj" />
+  <Project Path="17-Armazenamento/17-Armazenamento.csproj" />
+  <Project Path="18-Produtos/18-Produtos.csproj" />
+  <Project Path="19-Funcionario/19-Funcionario.csproj" />
+  <Project Path="20-DadosPassageiros/20-DadosPassageiros.csproj" />
   <Project Path="AplicacaoDeConhecimento/AplicacaoDeConhecimento.csproj" />
 </Solution>
