@@ -2,8 +2,26 @@
   <Project Path="02-estoquePapelaria/02-estoquePapelaria.csproj" />
   <Project Path="03-pedidoDeCompra/03-pedidoDeCompra.csproj" />
   <Project Path="04-agendamentoMedico/04-agendamentoMedico.csproj" />
+  <Project Path="05-produtoDigital/05-produtoDigital.csproj" />
   <Project Path="05-horaPratica/05-horaPratica.csproj" />
   <Project Path="06-plataformaVideo/06-plataformaVideo.csproj" />
   <Project Path="07-PetShop/07-PetShop.csproj" />
+  <Project Path="08-oficinaAutomobilistica/08-oficinaAutomobilistica.csproj" />
+  <Project Path="09-FormasGeometricas/09-FormasGeometricas.csproj" />
+  <Project Path="10-Colaboradores/10-Colaboradores.csproj" />
+  <Project Path="11-Banco/11-Banco.csproj" />
+  <Project Path="12-Eletronico/12-Eletronico.csproj" />
+  <Project Path="13-Iforma/13-Iforma.csproj" />
+  <Project Path="14-Piloto/14-Piloto.csproj" />
+  <Project Path="15-Pagamento/15-Pagamento.csproj" />
+  <Project Path="16-Notificacao/16-Notificacao.csproj" />
+  <Project Path="17-Armazenamento/17-Armazenamento.csproj" />
+  <Project Path="18-Produtos/18-Produtos.csproj" />
+  <Project Path="19-Funcionario/19-Funcionario.csproj" />
+  <Project Path="20-DadosPassageiros/20-DadosPassageiros.csproj" />
+  <Project Path="22-CatagolacaoItens/22-CatagolacaoItens.csproj" />
+  <Project Path="23-DispositivosSensores/23-DispositivosSensores.csproj" />
+  <Project Path="24-MontagemComputadores/24-MontagemComputadores.csproj" />
+  <Project Path="25-SistemaPagamento/25-SistemaPagamento.csproj" />
   <Project Path="AplicacaoDeConhecimento/AplicacaoDeConhecimento.csproj" />
 </Solution>
