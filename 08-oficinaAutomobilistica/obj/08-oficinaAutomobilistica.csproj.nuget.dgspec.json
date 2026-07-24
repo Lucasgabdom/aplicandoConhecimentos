@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\PSV Solutions\\OneDrive - PSV SERVIÇOS E SOLUÇÕES AUTOMATIZADAS LTDA\\Área de Trabalho\\Projetos\\AplicacaoDeConhecimento\\08-oficinaAutomobilistica\\08-oficinaAutomobilistica.csproj": {}
+    "C:\\Users\\PSV Solutions\\OneDrive - PSV SERVIÇOS E SOLUÇÕES AUTOMATIZADAS LTDA\\Área de Trabalho\\Projetos\\Produtos\\08-oficinaAutomobilistica\\08-oficinaAutomobilistica.csproj": {}
   },
   "projects": {
-    "C:\\Users\\PSV Solutions\\OneDrive - PSV SERVIÇOS E SOLUÇÕES AUTOMATIZADAS LTDA\\Área de Trabalho\\Projetos\\AplicacaoDeConhecimento\\08-oficinaAutomobilistica\\08-oficinaAutomobilistica.csproj": {
+    "C:\\Users\\PSV Solutions\\OneDrive - PSV SERVIÇOS E SOLUÇÕES AUTOMATIZADAS LTDA\\Área de Trabalho\\Projetos\\Produtos\\08-oficinaAutomobilistica\\08-oficinaAutomobilistica.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PSV Solutions\\OneDrive - PSV SERVIÇOS E SOLUÇÕES AUTOMATIZADAS LTDA\\Área de Trabalho\\Projetos\\AplicacaoDeConhecimento\\08-oficinaAutomobilistica\\08-oficinaAutomobilistica.csproj",
+        "projectUniqueName": "C:\\Users\\PSV Solutions\\OneDrive - PSV SERVIÇOS E SOLUÇÕES AUTOMATIZADAS LTDA\\Área de Trabalho\\Projetos\\Produtos\\08-oficinaAutomobilistica\\08-oficinaAutomobilistica.csproj",
         "projectName": "08-oficinaAutomobilistica",
-        "projectPath": "C:\\Users\\PSV Solutions\\OneDrive - PSV SERVIÇOS E SOLUÇÕES AUTOMATIZADAS LTDA\\Área de Trabalho\\Projetos\\AplicacaoDeConhecimento\\08-oficinaAutomobilistica\\08-oficinaAutomobilistica.csproj",
+        "projectPath": "C:\\Users\\PSV Solutions\\OneDrive - PSV SERVIÇOS E SOLUÇÕES AUTOMATIZADAS LTDA\\Área de Trabalho\\Projetos\\Produtos\\08-oficinaAutomobilistica\\08-oficinaAutomobilistica.csproj",
         "packagesPath": "C:\\Users\\PSV Solutions\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PSV Solutions\\OneDrive - PSV SERVIÇOS E SOLUÇÕES AUTOMATIZADAS LTDA\\Área de Trabalho\\Projetos\\AplicacaoDeConhecimento\\08-oficinaAutomobilistica\\obj\\",
+        "outputPath": "C:\\Users\\PSV Solutions\\OneDrive - PSV SERVIÇOS E SOLUÇÕES AUTOMATIZADAS LTDA\\Área de Trabalho\\Projetos\\Produtos\\08-oficinaAutomobilistica\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

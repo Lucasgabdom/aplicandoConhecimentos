@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\PSV Solutions\\OneDrive - PSV SERVIÇOS E SOLUÇÕES AUTOMATIZADAS LTDA\\Área de Trabalho\\Projetos\\AplicacaoDeConhecimento\\15-Pagamento\\15-Pagamento.csproj": {}
+    "C:\\Users\\PSV Solutions\\OneDrive - PSV SERVIÇOS E SOLUÇÕES AUTOMATIZADAS LTDA\\Área de Trabalho\\Projetos\\Produtos\\15-Pagamento\\15-Pagamento.csproj": {}
   },
   "projects": {
-    "C:\\Users\\PSV Solutions\\OneDrive - PSV SERVIÇOS E SOLUÇÕES AUTOMATIZADAS LTDA\\Área de Trabalho\\Projetos\\AplicacaoDeConhecimento\\15-Pagamento\\15-Pagamento.csproj": {
+    "C:\\Users\\PSV Solutions\\OneDrive - PSV SERVIÇOS E SOLUÇÕES AUTOMATIZADAS LTDA\\Área de Trabalho\\Projetos\\Produtos\\15-Pagamento\\15-Pagamento.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PSV Solutions\\OneDrive - PSV SERVIÇOS E SOLUÇÕES AUTOMATIZADAS LTDA\\Área de Trabalho\\Projetos\\AplicacaoDeConhecimento\\15-Pagamento\\15-Pagamento.csproj",
+        "projectUniqueName": "C:\\Users\\PSV Solutions\\OneDrive - PSV SERVIÇOS E SOLUÇÕES AUTOMATIZADAS LTDA\\Área de Trabalho\\Projetos\\Produtos\\15-Pagamento\\15-Pagamento.csproj",
         "projectName": "15-Pagamento",
-        "projectPath": "C:\\Users\\PSV Solutions\\OneDrive - PSV SERVIÇOS E SOLUÇÕES AUTOMATIZADAS LTDA\\Área de Trabalho\\Projetos\\AplicacaoDeConhecimento\\15-Pagamento\\15-Pagamento.csproj",
+        "projectPath": "C:\\Users\\PSV Solutions\\OneDrive - PSV SERVIÇOS E SOLUÇÕES AUTOMATIZADAS LTDA\\Área de Trabalho\\Projetos\\Produtos\\15-Pagamento\\15-Pagamento.csproj",
         "packagesPath": "C:\\Users\\PSV Solutions\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PSV Solutions\\OneDrive - PSV SERVIÇOS E SOLUÇÕES AUTOMATIZADAS LTDA\\Área de Trabalho\\Projetos\\AplicacaoDeConhecimento\\15-Pagamento\\obj\\",
+        "outputPath": "C:\\Users\\PSV Solutions\\OneDrive - PSV SERVIÇOS E SOLUÇÕES AUTOMATIZADAS LTDA\\Área de Trabalho\\Projetos\\Produtos\\15-Pagamento\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
