@@ -19,5 +19,9 @@
   <Project Path="18-Produtos/18-Produtos.csproj" />
   <Project Path="19-Funcionario/19-Funcionario.csproj" />
   <Project Path="20-DadosPassageiros/20-DadosPassageiros.csproj" />
+  <Project Path="22-CatagolacaoItens/22-CatagolacaoItens.csproj" />
+  <Project Path="23-DispositivosSensores/23-DispositivosSensores.csproj" />
+  <Project Path="24-MontagemComputadores/24-MontagemComputadores.csproj" />
+  <Project Path="25-SistemaPagamento/25-SistemaPagamento.csproj" />
   <Project Path="AplicacaoDeConhecimento/AplicacaoDeConhecimento.csproj" />
 </Solution>
