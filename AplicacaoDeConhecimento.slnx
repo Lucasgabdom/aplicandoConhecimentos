@@ -23,5 +23,7 @@
   <Project Path="23-DispositivosSensores/23-DispositivosSensores.csproj" />
   <Project Path="24-MontagemComputadores/24-MontagemComputadores.csproj" />
   <Project Path="25-SistemaPagamento/25-SistemaPagamento.csproj" />
+  <Project Path="26-GestaoServico/26-GestaoServico.csproj" />
+  <Project Path="27-PlataformaCursos/27-PlataformaCursos.csproj" />
   <Project Path="AplicacaoDeConhecimento/AplicacaoDeConhecimento.csproj" />
 </Solution>
