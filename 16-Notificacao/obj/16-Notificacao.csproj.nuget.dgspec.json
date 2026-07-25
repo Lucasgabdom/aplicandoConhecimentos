@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\PSV Solutions\\OneDrive - PSV SERVIÇOS E SOLUÇÕES AUTOMATIZADAS LTDA\\Área de Trabalho\\Projetos\\Produtos\\16-Notificacao\\16-Notificacao.csproj": {}
+    "C:\\Users\\User\\Desktop\\TrilhaConhecimento\\16-Notificacao\\16-Notificacao.csproj": {}
   },
   "projects": {
-    "C:\\Users\\PSV Solutions\\OneDrive - PSV SERVIÇOS E SOLUÇÕES AUTOMATIZADAS LTDA\\Área de Trabalho\\Projetos\\Produtos\\16-Notificacao\\16-Notificacao.csproj": {
+    "C:\\Users\\User\\Desktop\\TrilhaConhecimento\\16-Notificacao\\16-Notificacao.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PSV Solutions\\OneDrive - PSV SERVIÇOS E SOLUÇÕES AUTOMATIZADAS LTDA\\Área de Trabalho\\Projetos\\Produtos\\16-Notificacao\\16-Notificacao.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\TrilhaConhecimento\\16-Notificacao\\16-Notificacao.csproj",
         "projectName": "16-Notificacao",
-        "projectPath": "C:\\Users\\PSV Solutions\\OneDrive - PSV SERVIÇOS E SOLUÇÕES AUTOMATIZADAS LTDA\\Área de Trabalho\\Projetos\\Produtos\\16-Notificacao\\16-Notificacao.csproj",
-        "packagesPath": "C:\\Users\\PSV Solutions\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PSV Solutions\\OneDrive - PSV SERVIÇOS E SOLUÇÕES AUTOMATIZADAS LTDA\\Área de Trabalho\\Projetos\\Produtos\\16-Notificacao\\obj\\",
+        "projectPath": "C:\\Users\\User\\Desktop\\TrilhaConhecimento\\16-Notificacao\\16-Notificacao.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\TrilhaConhecimento\\16-Notificacao\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\PSV Solutions\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],

@@ -25,5 +25,7 @@
   <Project Path="25-SistemaPagamento/25-SistemaPagamento.csproj" />
   <Project Path="26-GestaoServico/26-GestaoServico.csproj" />
   <Project Path="27-PlataformaCursos/27-PlataformaCursos.csproj" />
+  <Project Path="28-ControleVelocidade/28-ControleVelocidade.csproj" />
+  <Project Path="29-ValidacaoMinima/29-ValidacaoMinima.csproj" />
   <Project Path="AplicacaoDeConhecimento/AplicacaoDeConhecimento.csproj" />
 </Solution>

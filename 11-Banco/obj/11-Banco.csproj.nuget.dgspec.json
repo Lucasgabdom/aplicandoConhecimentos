@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\PSV Solutions\\OneDrive - PSV SERVIÇOS E SOLUÇÕES AUTOMATIZADAS LTDA\\Área de Trabalho\\Projetos\\Produtos\\11-Banco\\11-Banco.csproj": {}
+    "C:\\Users\\User\\Desktop\\TrilhaConhecimento\\11-Banco\\11-Banco.csproj": {}
   },
   "projects": {
-    "C:\\Users\\PSV Solutions\\OneDrive - PSV SERVIÇOS E SOLUÇÕES AUTOMATIZADAS LTDA\\Área de Trabalho\\Projetos\\Produtos\\11-Banco\\11-Banco.csproj": {
+    "C:\\Users\\User\\Desktop\\TrilhaConhecimento\\11-Banco\\11-Banco.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PSV Solutions\\OneDrive - PSV SERVIÇOS E SOLUÇÕES AUTOMATIZADAS LTDA\\Área de Trabalho\\Projetos\\Produtos\\11-Banco\\11-Banco.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\TrilhaConhecimento\\11-Banco\\11-Banco.csproj",
         "projectName": "11-Banco",
-        "projectPath": "C:\\Users\\PSV Solutions\\OneDrive - PSV SERVIÇOS E SOLUÇÕES AUTOMATIZADAS LTDA\\Área de Trabalho\\Projetos\\Produtos\\11-Banco\\11-Banco.csproj",
-        "packagesPath": "C:\\Users\\PSV Solutions\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PSV Solutions\\OneDrive - PSV SERVIÇOS E SOLUÇÕES AUTOMATIZADAS LTDA\\Área de Trabalho\\Projetos\\Produtos\\11-Banco\\obj\\",
+        "projectPath": "C:\\Users\\User\\Desktop\\TrilhaConhecimento\\11-Banco\\11-Banco.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\TrilhaConhecimento\\11-Banco\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\PSV Solutions\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
