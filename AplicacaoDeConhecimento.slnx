@@ -27,5 +27,9 @@
   <Project Path="27-PlataformaCursos/27-PlataformaCursos.csproj" />
   <Project Path="28-ControleVelocidade/28-ControleVelocidade.csproj" />
   <Project Path="29-ValidacaoMinima/29-ValidacaoMinima.csproj" />
+  <Project Path="30-ControlandoAcesso/30-ControlandoAcesso.csproj" />
+  <Project Path="31-EncapsulamentoSalario/31-EncapsulamentoSalario.csproj" />
+  <Project Path="32-ControleTarefas/32-ControleTarefas.csproj" />
+  <Project Path="33-ValidacaoSaque/33-ValidacaoSaque.csproj" />
   <Project Path="AplicacaoDeConhecimento/AplicacaoDeConhecimento.csproj" />
 </Solution>
