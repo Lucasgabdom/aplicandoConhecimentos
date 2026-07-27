@@ -14,7 +14,7 @@ class Instrutor
     {
         Nome = nome;
         Especialidade = especialidade;
-    }
+    }       
 }
 
 class CursoProgramacao : ICursos
