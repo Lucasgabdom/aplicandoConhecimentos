@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("04-agendamentoMedico")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a6899ff528e7e4f3e509c4d55d39b2b1644e7ce3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+33ef21abf95d917bc1d00da73e3c96b240b76e53")]
 [assembly: System.Reflection.AssemblyProductAttribute("04-agendamentoMedico")]
 [assembly: System.Reflection.AssemblyTitleAttribute("04-agendamentoMedico")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
