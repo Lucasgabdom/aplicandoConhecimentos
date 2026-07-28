@@ -8,23 +8,23 @@
     "net10.0": []
   },
   "packageFolders": {
-    "C:\\Users\\PSV Solutions\\.nuget\\packages\\": {},
+    "C:\\Users\\User\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\PSV Solutions\\OneDrive - PSV SERVIÇOS E SOLUÇÕES AUTOMATIZADAS LTDA\\Área de Trabalho\\Projetos\\Produtos\\18-Produtos\\18-Produtos.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\TrilhaConhecimento\\18-Produtos\\18-Produtos.csproj",
       "projectName": "18-Produtos",
-      "projectPath": "C:\\Users\\PSV Solutions\\OneDrive - PSV SERVIÇOS E SOLUÇÕES AUTOMATIZADAS LTDA\\Área de Trabalho\\Projetos\\Produtos\\18-Produtos\\18-Produtos.csproj",
-      "packagesPath": "C:\\Users\\PSV Solutions\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\PSV Solutions\\OneDrive - PSV SERVIÇOS E SOLUÇÕES AUTOMATIZADAS LTDA\\Área de Trabalho\\Projetos\\Produtos\\18-Produtos\\obj\\",
+      "projectPath": "C:\\Users\\User\\Desktop\\TrilhaConhecimento\\18-Produtos\\18-Produtos.csproj",
+      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\TrilhaConhecimento\\18-Produtos\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\PSV Solutions\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],

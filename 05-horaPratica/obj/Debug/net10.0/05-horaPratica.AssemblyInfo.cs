@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("05-horaPratica")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+33ef21abf95d917bc1d00da73e3c96b240b76e53")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c44032ac692b3946f07006a60143f1d23f9701b8")]
 [assembly: System.Reflection.AssemblyProductAttribute("05-horaPratica")]
 [assembly: System.Reflection.AssemblyTitleAttribute("05-horaPratica")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -34,5 +34,6 @@
   <Project Path="33-ValidacaoSaque/33-ValidacaoSaque.csproj" />
   <Project Path="35-BaseMedia/35-BaseMedia.csproj" />
   <Project Path="36-ControleDeMatricula/36-ControleDeMatricula.csproj" />
+  <Project Path="37-SistemaReservas/37-SistemaReservas.csproj" />
   <Project Path="AplicacaoDeConhecimento/AplicacaoDeConhecimento.csproj" />
 </Solution>
