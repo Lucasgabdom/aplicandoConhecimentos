@@ -35,5 +35,7 @@
   <Project Path="35-BaseMedia/35-BaseMedia.csproj" />
   <Project Path="36-ControleDeMatricula/36-ControleDeMatricula.csproj" />
   <Project Path="37-SistemaReservas/37-SistemaReservas.csproj" />
+  <Project Path="38-CalculadoraSobreCarga/38-CalculadoraSobreCarga.csproj" />
+  <Project Path="39-RelatorioFuncionarios/39-RelatorioFuncionarios.csproj" />
   <Project Path="AplicacaoDeConhecimento/AplicacaoDeConhecimento.csproj" />
 </Solution>
