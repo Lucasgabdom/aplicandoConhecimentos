@@ -1,4 +1,7 @@
 <Solution>
+  <Folder Name="/40-NotificacoaSistemas/">
+    <Project Path="40-NotificacoaSistemas/40-notificacaoSistemas.csproj" />
+  </Folder>
   <Project Path="02-estoquePapelaria/02-estoquePapelaria.csproj" />
   <Project Path="03-pedidoDeCompra/03-pedidoDeCompra.csproj" />
   <Project Path="04-agendamentoMedico/04-agendamentoMedico.csproj" />
@@ -34,5 +37,11 @@
   <Project Path="33-ValidacaoSaque/33-ValidacaoSaque.csproj" />
   <Project Path="35-BaseMedia/35-BaseMedia.csproj" />
   <Project Path="36-ControleDeMatricula/36-ControleDeMatricula.csproj" />
+  <Project Path="37-SistemaReservas/37-SistemaReservas.csproj" />
+  <Project Path="38-CalculadoraSobreCarga/38-CalculadoraSobreCarga.csproj" />
+  <Project Path="39-RelatorioFuncionarios/39-RelatorioFuncionarios.csproj" />
+  <Project Path="40-NotificacaoSistema/40-NotificacaoSistema.csproj" />
+  <Project Path="41-TarefasAgendadas/41-TarefasAgendadas.csproj" />
+  <Project Path="42-ExibindoMidia/42-ExibindoMidia.csproj" />
   <Project Path="AplicacaoDeConhecimento/AplicacaoDeConhecimento.csproj" />
 </Solution>
