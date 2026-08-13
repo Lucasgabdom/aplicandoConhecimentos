@@ -10,3 +10,6 @@
         Console.WriteLine($"Vídeo: {Nome}, Duração: {Duracao} minutos");
     }
 }
+
+//reserva presencial 
+//reserva online
