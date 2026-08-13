@@ -43,5 +43,6 @@
   <Project Path="40-NotificacaoSistema/40-NotificacaoSistema.csproj" />
   <Project Path="41-TarefasAgendadas/41-TarefasAgendadas.csproj" />
   <Project Path="42-ExibindoMidia/42-ExibindoMidia.csproj" />
+  <Project Path="43-ReservasExperiencias/43-ReservasExperiencias.csproj" />
   <Project Path="AplicacaoDeConhecimento/AplicacaoDeConhecimento.csproj" />
 </Solution>
