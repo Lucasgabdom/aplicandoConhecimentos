@@ -46,5 +46,6 @@
   <Project Path="43-ReservasExperiencias/43-ReservasExperiencias.csproj" />
   <Project Path="44-AvalicaoDeConteudos/44-AvalicaoDeConteudos.csproj" />
   <Project Path="45-TransporteUrbano/45-TransporteUrbano.csproj" />
+  <Project Path="46-CalculoDeJuros/46-CalculoDeJuros.csproj" />
   <Project Path="AplicacaoDeConhecimento/AplicacaoDeConhecimento.csproj" />
 </Solution>
