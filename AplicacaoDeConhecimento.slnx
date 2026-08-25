@@ -43,10 +43,12 @@
   <Project Path="40-NotificacaoSistema/40-NotificacaoSistema.csproj" />
   <Project Path="41-TarefasAgendadas/41-TarefasAgendadas.csproj" />
   <Project Path="42-ExibindoMidia/42-ExibindoMidia.csproj" />
+  <Project Path="43-Informacoes/43-Informacoes.csproj" />
   <Project Path="43-ReservasExperiencias/43-ReservasExperiencias.csproj" />
   <Project Path="44-AvalicaoDeConteudos/44-AvalicaoDeConteudos.csproj" />
   <Project Path="45-TransporteUrbano/45-TransporteUrbano.csproj" />
   <Project Path="46-CalculoDeJuros/46-CalculoDeJuros.csproj" />
   <Project Path="47-CalculoDeJuros/47-CalculoDeJuros.csproj" />
+  <Project Path="48-listaSerializer/48-listaSerializer.csproj" />
   <Project Path="AplicacaoDeConhecimento/AplicacaoDeConhecimento.csproj" />
 </Solution>
